@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Movies
+* Books
+  * Kane and Abel
+  * Harry Potter
